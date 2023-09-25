@@ -38,7 +38,7 @@ elif pilihan == "3"  :
 ```
 ![WhatsApp Image 2023-09-25 at 9 40 27 PM](https://github.com/muhammadDaffaEzraPutra/POSTEST-1-NIM-GENAP-/assets/145997425/0d3e723e-7c80-4c29-9792-8dc0fc3b17b3)
 
-![Untitled Diagram drawio](https://github.com/muhammadDaffaEzraPutra/POSTEST-1-NIM-GENAP-/assets/145997425/adc6e3fa-b45c-4c62-bf62-0ef5eadcb6db)
+![Untitled Diagram drawio (1)](https://github.com/muhammadDaffaEzraPutra/POSTEST-1-NIM-GENAP-/assets/145997425/c3749a85-3940-4976-9388-a74402f217b8)
 
 
 
